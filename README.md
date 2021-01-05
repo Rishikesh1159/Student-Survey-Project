@@ -19,3 +19,6 @@ Steps to Start:
 -->Deploy both front-end and back-end from docker hub to cluster using loadbalancers.
 -->Yaml files for deployment are provided in project folder.
 -->Now access your application with loadbalancers public address.
+
+
+-->Refer Documentation for detail step by step process
