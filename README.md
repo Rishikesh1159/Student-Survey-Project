@@ -21,4 +21,4 @@ Steps to Start:
 -->Now access your application with loadbalancers public address.
 
 
--->Refer Documentation for detail step by step process
+-->Refer Documentation in project folder for detail step by step process
